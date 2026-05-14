@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Smartphone X Pro",
+    "category": "phones",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+    "description": "The latest flagship smartphone with an incredible camera and battery life.",
+    "price": 999.99,
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "title": "Laptop UltraBook 15",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=800&auto=format&fit=crop",
+    "description": "A powerful and lightweight laptop for professionals.",
+    "price": 1299.00,
+    "rating": 4.7
+  },
+  {
+    "id": "3",
+    "title": "Wireless Noise-Canceling Headphones",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "description": "Premium headphones with active noise cancellation and high-fidelity sound.",
+    "price": 249.50,
+    "rating": 4.9
+  },
+  {
+    "id": "4",
+    "title": "Smart Watch Gen 4",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "description": "Stay connected with this sleek smartwatch featuring fitness tracking.",
+    "price": 199.99,
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "title": "Gaming Laptop RGB Max",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?q=80&w=800&auto=format&fit=crop",
+    "description": "Ultimate gaming laptop with high refresh rate and powerful GPU.",
+    "price": 1799.00,
+    "rating": 4.6
+  },
+  {
+    "id": "6",
+    "title": "Bluetooth Speaker Mini",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=800&auto=format&fit=crop",
+    "description": "Compact and portable Bluetooth speaker with deep bass.",
+    "price": 49.99,
+    "rating": 4.3
+  }
+]
